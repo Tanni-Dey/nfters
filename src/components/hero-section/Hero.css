@@ -37,6 +37,12 @@
   padding: 20px 40px;
   color: white;
 }
+.button:hover {
+  background: #7330f9;
+}
+.button:focus {
+  outline: none;
+}
 .hero_counter {
   margin-top: 30px;
   max-width: 80%;
@@ -64,6 +70,9 @@
   padding: 0;
   border: none;
   border-radius: 50%;
+}
+.hero_img button:focus {
+  outline: none;
 }
 .hero_img_1 {
   position: relative;
