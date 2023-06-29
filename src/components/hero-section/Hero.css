@@ -1,0 +1,57 @@
+.hero_content h5 {
+  color: #000;
+  font-size: 40px;
+  font-family: "Integral CF";
+  font-weight: 700;
+  letter-spacing: 2px;
+  margin-bottom: 22px;
+}
+.hero_content p {
+  font-family: "DM Sans", sans-serif;
+  font-weight: 400;
+  color: #565656;
+  font-size: 20px;
+  line-height: 160%;
+  margin-bottom: 41px;
+}
+.button {
+  color: #fff;
+  font-size: 20px;
+  font-family: "Averta Demo PE Cutted Demo";
+  letter-spacing: 1.3px;
+  border-radius: 60px;
+  background: #3d00b7;
+  padding: 20px 40px;
+  color: white;
+}
+.hero_counter {
+  margin-top: 30px;
+  max-width: 80%;
+}
+.single-counter span {
+  color: #000;
+  font-size: 40px;
+  font-family: "Integral CF";
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+.hero_img {
+  position: relative;
+  text-align: right;
+}
+.hero_img_1 {
+  position: relative;
+  z-index: 100;
+}
+.hero_img_2 {
+  position: absolute;
+  top: 24px;
+  right: -36px;
+  z-index: 99;
+}
+.hero_img_3 {
+  position: absolute;
+  top: 49px;
+  right: -67px;
+  z-index: 98;
+}
